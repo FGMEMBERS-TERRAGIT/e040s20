@@ -6,3 +6,4 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 49.39425 -18.12425 8.8 180
 OBJECT_SHARED Models/Airport/marker.ac 49.384972 -18.040694 40.03 180
 OBJECT_SHARED Models/Airport/marker.ac 49.390528 -18.091389 9.84 180
 OBJECT_SHARED Models/Airport/localizer.xml 49.394 -18.122056 8.45 263.77
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 49.4600613 -18.0487795 -2.4 0
