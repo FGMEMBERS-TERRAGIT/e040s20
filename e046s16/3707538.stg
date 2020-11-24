@@ -1,2 +1,11 @@
 OBJECT_SHARED Models/Airport/ndb.ac 46.342 -15.674083 23.41 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 46.340667 -15.6575 11.09 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac 46.34843 -15.66875 0.00 48.11
+OBJECT_SHARED Models/lib/MedHangar.ac 46.34987 -15.67000 23.04 229.67
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 46.34867 -15.66898 23.71 38.96
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 46.34938 -15.66958 22.66 317.9
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 46.34904 -15.66930 23.25 1.97
+# END dsf2stg
